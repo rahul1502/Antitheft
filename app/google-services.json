@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "35612050553",
+    "firebase_url": "https://mantitheft.firebaseio.com",
+    "project_id": "mantitheft",
+    "storage_bucket": "mantitheft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35612050553:android:44a4ed9525e43ec5",
+        "android_client_info": {
+          "package_name": "com.example.rahu.antitheftv11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35612050553-99ifb80o3eaf8rktc19j7qne1othiroa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp8QGsKVpBBe5hdueabuRz9wpCLTxrN8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
